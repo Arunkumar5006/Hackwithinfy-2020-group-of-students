@@ -1,0 +1,34 @@
+Group of students
+
+Your class has N students. You are given there heights. You want to form the maximum
+number of groups of 2 students such that the difference of their heights is very large.
+more precusely, the sum of heights difference across all groups is maximum sum.
+
+Function description
+
+Complete the maxdifference function. it has the parameter A.
+the function must return an INTEGER denoting the maximum sum of the difference of
+groups consisting 2 students.
+
+Constraints
+
+1 <= N <= 100
+1 <= A[i] <= 100
+
+Input format
+
+* The first line contains an Integer N
+* Each line i of N contains integer describing A.
+
+Sample Input
+
+5
+2
+3
+2
+3
+5
+
+Sample Output
+
+4
